@@ -12,7 +12,7 @@ namespace JustBlog.Core.Mappings
     {
         public CategoryMap ()
         {
-
+            //TODO: commit me
         }
     }
 }
