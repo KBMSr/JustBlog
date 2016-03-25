@@ -8,5 +8,6 @@ namespace JustBlog.Core
 {
     public class Class1
     {
+        public int PersonID { get; set; }
     }
 }
